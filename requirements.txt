@@ -3,3 +3,4 @@ pyqt5-tools==5.15.1.2
 PyQt5-stubs==5.14.2.2
 pillow
 numpy
+pyinstaller
